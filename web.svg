@@ -163,35 +163,35 @@
 <rect x="596.6" y="91.7" width="113.9" height="53.1"/>
 <text transform="matrix(1.5895 0 0 1 590.5488 130.2656)" class="st27 st28"> </text>
 <text transform="matrix(1.5895 0 0 1 590.5488 138.3613)" class="st27 st28">    </text>
-<text transform="matrix(1.5895 0 0 1 600.2866 138.3613)" class="st12 st27 st28">&lt;</text>
+<text transform="matrix(1.5895 0 0 1 600.2871 138.3613)" class="st12 st27 st28">&lt;</text>
 <text transform="matrix(1.5895 0 0 1 606.0264 138.3613)" class="st29 st27 st28">title</text>
 <text transform="matrix(1.5895 0 0 1 626.8936 138.3613)" class="st12 st27 st28">&gt;Forside&lt;/</text>
 <text transform="matrix(1.5895 0 0 1 678.3672 138.3613)" class="st29 st27 st28">title</text>
 <text transform="matrix(1.5895 0 0 1 699.2344 138.3613)" class="st12 st27 st28">&gt;</text>
 <text transform="matrix(1.5895 0 0 1 590.5488 146.457)" class="st27 st28"> </text>
-<text transform="matrix(1.1238 0 0 1 600.8218 126.6729)" class="st27 st30"> </text>
-<text transform="matrix(1.1238 0 0 1 602.6655 126.6729)" class="st12 st27 st30">&lt;</text>
-<text transform="matrix(1.1238 0 0 1 607.0923 126.6729)" class="st31 st27 st30">meta</text>
-<text transform="matrix(1.1238 0 0 1 627.1313 126.6729)" class="st27 st30"> </text>
-<text transform="matrix(1.1238 0 0 1 628.9751 126.6729)" class="st29 st27 st30">charset=</text>
-<text transform="matrix(1.1238 0 0 1 661.6782 126.6729)" class="st19 st27 st30">&quot;UTF-8&quot;</text>
-<text transform="matrix(1.1238 0 0 1 693.2749 126.6729)" class="st27 st30"> </text>
-<text transform="matrix(1.1238 0 0 1 695.1196 126.6729)" class="st12 st27 st30">/&gt;</text>
-<text transform="matrix(1.5227 0 0 1 602.8267 99.46)" class="st12 st32 st33">&lt;</text>
-<text transform="matrix(1.5227 0 0 1 608.6577 99.46)" class="st31 st32 st33">!DOCTYPE</text>
-<text transform="matrix(1.5227 0 0 1 650.3042 99.46)" class="st32 st33"> </text>
-<text transform="matrix(1.5227 0 0 1 652.4712 99.46)" class="st29 st32 st33">html</text>
+<text transform="matrix(1.1238 0 0 1 600.8223 126.6729)" class="st27 st30"> </text>
+<text transform="matrix(1.1238 0 0 1 602.666 126.6729)" class="st12 st27 st30">&lt;</text>
+<text transform="matrix(1.1238 0 0 1 607.0918 126.6729)" class="st31 st27 st30">meta</text>
+<text transform="matrix(1.1238 0 0 1 627.1309 126.6729)" class="st27 st30"> </text>
+<text transform="matrix(1.1238 0 0 1 628.9746 126.6729)" class="st29 st27 st30">charset=</text>
+<text transform="matrix(1.1238 0 0 1 661.6777 126.6729)" class="st19 st27 st30">&quot;UTF-8&quot;</text>
+<text transform="matrix(1.1238 0 0 1 693.2754 126.6729)" class="st27 st30"> </text>
+<text transform="matrix(1.1238 0 0 1 695.1191 126.6729)" class="st12 st27 st30">/&gt;</text>
+<text transform="matrix(1.5227 0 0 1 602.8262 99.46)" class="st12 st32 st33">&lt;</text>
+<text transform="matrix(1.5227 0 0 1 608.6582 99.46)" class="st31 st32 st33">!DOCTYPE</text>
+<text transform="matrix(1.5227 0 0 1 650.3047 99.46)" class="st32 st33"> </text>
+<text transform="matrix(1.5227 0 0 1 652.4707 99.46)" class="st29 st32 st33">html</text>
 <text transform="matrix(1.5227 0 0 1 671.6279 99.46)" class="st12 st32 st33">&gt;</text>
-<text transform="matrix(1.5227 0 0 1 602.8267 107.2275)" class="st12 st32 st33">&lt;</text>
-<text transform="matrix(1.5227 0 0 1 608.6577 107.2275)" class="st31 st32 st33">html lang</text>
-<text transform="matrix(1.5227 0 0 1 648.1392 107.2275)" class="st12 st32 st33">=</text>
+<text transform="matrix(1.5227 0 0 1 602.8262 107.2275)" class="st12 st32 st33">&lt;</text>
+<text transform="matrix(1.5227 0 0 1 608.6582 107.2275)" class="st31 st32 st33">html lang</text>
+<text transform="matrix(1.5227 0 0 1 648.1387 107.2275)" class="st12 st32 st33">=</text>
 <text transform="matrix(1.5227 0 0 1 653.9697 107.2275)" class="st19 st32 st33">&quot;en&quot;</text>
-<text transform="matrix(1.5227 0 0 1 670.9624 107.2275)" class="st12 st32 st33">&gt;</text>
-<text transform="matrix(1.5227 0 0 1 602.8267 114.9951)" class="st32 st33"> </text>
-<text transform="matrix(1.5227 0 0 1 604.9927 114.9951)" class="st31 st32 st33"> </text>
-<text transform="matrix(1.5227 0 0 1 606.9917 114.9951)" class="st12 st32 st33">&lt;</text>
-<text transform="matrix(1.5227 0 0 1 612.8208 114.9951)" class="st31 st32 st33">head</text>
-<text transform="matrix(1.5227 0 0 1 633.646 114.9951)" class="st12 st32 st33">&gt;</text>
+<text transform="matrix(1.5227 0 0 1 670.9629 107.2275)" class="st12 st32 st33">&gt;</text>
+<text transform="matrix(1.5227 0 0 1 602.8262 114.9951)" class="st32 st33"> </text>
+<text transform="matrix(1.5227 0 0 1 604.9922 114.9951)" class="st31 st32 st33"> </text>
+<text transform="matrix(1.5227 0 0 1 606.9922 114.9951)" class="st12 st32 st33">&lt;</text>
+<text transform="matrix(1.5227 0 0 1 612.8203 114.9951)" class="st31 st32 st33">head</text>
+<text transform="matrix(1.5227 0 0 1 633.6465 114.9951)" class="st12 st32 st33">&gt;</text>
 <path class="st34" d="M530.2,424.3h-15.9c-6.4,0-11.8-5.1-11.8-11.6v-7c0-6.3,5.2-11.6,11.8-11.6h15.9c6.4,0,11.8,5.1,11.8,11.6v7
 	C541.9,419,536.6,424.3,530.2,424.3z"/>
 <rect x="531.2" y="399" class="st35" width="5.9" height="20.2"/>
@@ -219,7 +219,7 @@
 <rect x="591.5" y="394.7" class="st40" width="9.3" height="3.1"/>
 <rect x="612.7" y="388.1" class="st19" width="5.1" height="15"/>
 <ellipse class="st19" cx="615.6" cy="381.4" rx="3" ry="2.6"/>
-<rect x="90.6" y="28.3" class="st41" width="799.4" height="559"/>
+<rect x="83.4" y="28.3" class="st41" width="797.6" height="559"/>
 <g>
 	<g>
 		<path class="st42" d="M449,490.7c3.3,20.8,7.6,41.4,13.1,61.8c1.6,5.9,3.2,11.7,5,17.5c0.5,1.6,2.9,1.3,2.9-0.4
@@ -239,7 +239,7 @@
 </g>
 <g>
 	<g>
-		<path class="st42" d="M510.2,539.2c2.6,0,5.2,0,7.8,0c0.8,0,1.5-0.7,1.5-1.5c0-0.8-0.7-1.5-1.5-1.5c-2.6,0-5.2,0-7.8,0
+		<path class="st42" d="M510.2,539.2c2.6,0,5.2,0,7.8,0c0.8,0,1.5-0.7,1.5-1.5s-0.7-1.5-1.5-1.5c-2.6,0-5.2,0-7.8,0
 			c-0.8,0-1.5,0.7-1.5,1.5C508.8,538.5,509.4,539.2,510.2,539.2L510.2,539.2z"/>
 	</g>
 </g>
@@ -259,7 +259,7 @@
 	<g>
 		<path class="st42" d="M546.4,488.8c2.2-0.9,4.9,0.4,5.9,2.5c1.4,2.9,2.2,6.4,2.8,9.6c1.3,6.6,1.3,13.4,0.1,20c0.3-0.3,0.7-0.7,1-1
 			c-4.6,0.9-9.1,1.9-13.7,2.8c0.4,0.9,0.8,1.8,1.2,2.7c3-1.5,9-0.4,9.8,3.4c0.5,2.2-0.1,4.9-0.4,7.1c-0.3,3-0.6,6-0.9,9
-			c-0.5,5.5-0.8,11.1-1.6,16.5c-0.3,1.8-0.8,3.6-2.1,5c-1.3,1.4-2.9,2.1-4.7,2.5c-1.9,0.4-4,0.5-5.9,0.2c-1-0.1-3.3-0.6-3.7-1.5
+			c-0.5,5.5-0.8,11.1-1.6,16.5c-0.3,1.8-0.8,3.6-2.1,5s-2.9,2.1-4.7,2.5c-1.9,0.4-4,0.5-5.9,0.2c-1-0.1-3.3-0.6-3.7-1.5
 			c-0.7-1.8-3.6-1-2.9,0.8c1.5,3.7,6.9,4.1,10.3,3.8c4.8-0.3,9.3-2.4,11.1-7.1c0.9-2.4,1-5.1,1.3-7.6c0.3-3.5,0.7-7,1-10.5
 			c0.4-3.6,0.7-7.3,1.1-10.9c0.3-2.7,1-5.8,0.2-8.5c-1.6-5.5-9.5-7.1-14.2-4.8c-1.6,0.8-0.4,3.1,1.2,2.7c4.6-0.9,9.1-1.9,13.7-2.8
 			c0.5-0.1,1-0.6,1-1c1.4-7.8,1.3-15.7-0.5-23.5c-0.4-1.9-1-3.8-1.6-5.7c-0.5-1.5-1-3.1-2.1-4.3c-2-2.2-5.3-3.6-8.2-2.4

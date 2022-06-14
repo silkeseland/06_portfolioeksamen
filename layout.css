@@ -1,3 +1,6 @@
+body {
+  background-color: lightyellow;
+}
 /* Baggrundsbillede forside*/
 #firstPage {
   background-image: url(forside_billede.webp);
@@ -166,7 +169,7 @@ footer {
 }
 
 .box {
-  background-color: white;
+  background-color: lightyellow;
   border-radius: 9px;
   height: 100%;
   margin-right: 1rem;
