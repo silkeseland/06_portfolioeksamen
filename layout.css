@@ -30,18 +30,30 @@ body {
 }
 .logo3 {
   width: 15%;
+  margin-left: 42%;
+  margin-right: 30%;
+  display: block;
+  padding: 0%;
+  margin-bottom: 10%;
+  margin-top: 6.5%;
+}
+.logo4 {
+  width: 20%;
   margin-left: 60%;
   margin-right: 60%;
   display: block;
   padding: 0%;
   margin-bottom: 9%;
-  margin-top: 6.5%;
+  margin-top: -30%;
 }
 
 .logo2:hover {
   transform: scale(1.5);
 }
 .logo3:hover:hover {
+  transform: scale(1.5);
+}
+.logo4:hover:hover {
   transform: scale(1.5);
 }
 
@@ -139,7 +151,7 @@ footer {
     width: 100%;
     height: auto;
     object-fit: cover;
-    margin-top: 35px;
+    margin-top: 25px;
   }
 
   .grid_1-1-1 {
